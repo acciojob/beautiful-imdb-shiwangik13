@@ -1,17 +1,14 @@
-
-/* Your CSS Code here. */
-.moviePic{
-    height: 350px;
-    width: 450px;
-    opacity: 0.7;
-    margin-left: 550px;
+.container img{
+    height:600px;
+    width:400px;
+    opacity: 0.8;
 }
-
-.movieDetail{
-    position: absolute;
-    top: 400px;
-    left: 350px;
-    width: 900px;
-    text-align: center;
+.container p{
+    text-align:left;
     font-size: 20px;
+    position:relative;
+    width:auto;
+    top:100px;
 }
+/* Your CSS Code here. */
+
